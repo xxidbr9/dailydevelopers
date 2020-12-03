@@ -6,7 +6,7 @@
 </p>
 <div>
     <h3>Screen Shoot</h3>
-    <img alt="License: MIT" src="https://github.com/xxidbr9/dailydevelopers/blob/main/WEB/3-12-2020_Furnitrix_WEB_UI/Furnitrix_UI.GIF?raw=true" />
+    <img alt="License: MIT" src="https://github.com/xxidbr9/dailydevelopers/blob/main/WEB/3-12-2020_Furnitrix_WEB_UI/media/Furnitrix_UI.GIF?raw=true" />
 </div>
 
 > You can see web live on this link below
